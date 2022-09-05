@@ -41,4 +41,4 @@ highlight_name: true
 ---
 I am a second-year master's student at the School of System Design and Intelligent Manufacturing, supervised by Zhenkun Wang. My research focuses on using deep reinforcement learning to solve discrete optimization problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ShunyuYao_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
