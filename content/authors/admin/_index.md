@@ -31,10 +31,10 @@ education:
   courses:
     - course: Master in School of System Design and Intelligent Manufacturing
       institution: Southern University of Science and Technology
-      year: 2020
+      year: ""
     - course: Bachelor in Computer Science and Technology
       institution: Southern University of Science and Technology
-      year: 2016
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
