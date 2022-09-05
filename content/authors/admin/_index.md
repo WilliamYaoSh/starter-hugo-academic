@@ -1,6 +1,7 @@
 ---
 title: Shunyu Yao
 role: Master Student
+avatar_filename: avatar.jpg
 bio: My research interests include combinatorial optimization, reinforcement
   learning, multi-task learning and computer vision.
 interests:
