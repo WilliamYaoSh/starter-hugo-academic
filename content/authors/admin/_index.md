@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: My research interests include combinatorial optimization, reinforcement
   learning, multi-task learning and computer vision.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Deep Learning
+  - Reinforcement Learning
   - Combinarorial Optimization
 social:
   - icon: envelope
@@ -14,16 +14,16 @@ social:
     link: William.YaoSh@outlook.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/William_YaoSh
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://williamyaosh.netlify.app/
   - icon: github
     icon_pack: fab
     link: https://github.com/WilliamYaoSh/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://williamyaosh.netlify.app/
 organizations:
   - name: Southern University of Science and Technology
     url: https://www.sustech.edu.cn/en/
